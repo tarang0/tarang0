@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - I am a tech enthusiast. 🤠
 - I am currently a second year Computer Science Student. 👨‍🎓
-- I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
+- I have a keen interest in Competitive Programming, Web and Android Development and Open Source. 💻
 - I love solving real life problems through technology. 💡
 - Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/tarang04/) and [hackerrank](https://www.hackerrank.com/tarangahuja78).🖱
 - I am also an Avid Reader.✍
