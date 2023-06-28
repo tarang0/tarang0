@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I love solving real life problems through technology. 💡
 - Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/tarang04/) and [hackerrank](https://www.hackerrank.com/tarangahuja78).🖱
 - I am also an Avid Reader.✍
-- Here is my [Linkedin Profile](https://www.linkedin.com/in/tarang-ahuja/). Feel free to connect! 👀
+- Here is my [Linkedin Profile](https://www.linkedin.com/in/tarang-ahuja/). Feel free to connect! 
 
 <h2>🛠 Tech Stack</h2>
 
